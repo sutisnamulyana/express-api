@@ -1,0 +1,25 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Playground to build API with Express.js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutisnamulyana/express-api.git"
+  },
+  "author": "@sutisnamulyana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sutisnamulyana/express-api/issues"
+  },
+  "homepage": "https://github.com/sutisnamulyana/express-api#readme"
+}
